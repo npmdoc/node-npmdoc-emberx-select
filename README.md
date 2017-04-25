@@ -1,4 +1,7 @@
-# api documentation for  [emberx-select (v3.0.1)](https://github.com/thefrontside/emberx-select#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-emberx-select.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-emberx-select) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-emberx-select.svg)](https://travis-ci.org/npmdoc/node-npmdoc-emberx-select)
+# npmdoc-emberx-select
+
+#### basic api documentation for  [emberx-select (v3.0.1)](https://github.com/thefrontside/emberx-select#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-emberx-select.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-emberx-select) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-emberx-select.svg)](https://travis-ci.org/npmdoc/node-npmdoc-emberx-select)
+
 #### A Select component based on html select.
 
 [![NPM](https://nodei.co/npm/emberx-select.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/emberx-select)
@@ -105,7 +108,8 @@
         "start": "ember server",
         "test": "ember try:each"
     },
-    "version": "3.0.1"
+    "version": "3.0.1",
+    "bin": {}
 }
 ```
 
